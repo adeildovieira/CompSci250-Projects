@@ -8,3 +8,5 @@ This assignment was done in two parts:
 My scores:
 - Homework 1: C (Code): 80/80 (A+).
 - Homework 1: C (Written PDF): 51/50 (A+) (1 extra point for an extra credit done).
+
+The PDF has a fish picture at the end for an extra credit.
